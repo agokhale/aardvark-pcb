@@ -1,4 +1,5 @@
 # USB-A footprint for etched-on-pcb USB connectors.
+#http://www.gedasymbols.org/user/dj_delorie/footprints/connector/usb-a-pcb.fp
 
 Element["" "" "" "" 120669 192913 0 0 0 100 ""]
 (
